@@ -5,7 +5,7 @@ A simple mobile authentication screen built using React Native and Expo.
 
 ## 📱 Preview
 
-![App Screenshot](./assets/images/Page-screenshot.jpeg)
+![App Screenshot](/Sign-In/assets/images/Page-screenshot.jpeg)
 
 ---
 
